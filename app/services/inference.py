@@ -1,5 +1,5 @@
 # app/services/inference.py
-
+#updated
 from PIL import Image
 import os
 
